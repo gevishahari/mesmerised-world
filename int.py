@@ -1,0 +1,6 @@
+a=int(intput("enter the value of a")
+b=int(intput("enter the value of b")
+add=(a+b)
+sub=(a-b)
+div=(b/a)
+multi=(a*b)
